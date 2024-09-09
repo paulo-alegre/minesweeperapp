@@ -11,7 +11,7 @@
 git clone https://github.com/paulo-alegre/minesweeperapp.git
 ```
 
-2. Go to the folder and execute this command:
+2. Go to the folder (Downloads for example Downloads/minesweeperapp) and execute this command:
 ```
 mvn clean install
 ```
